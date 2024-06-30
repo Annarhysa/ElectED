@@ -68,5 +68,5 @@ https://github.com/Annarhysa/ElectED/assets/91026126/48ddef68-ed02-431b-a0eb-29d
 9. **Single Seat Parties:** SKM and BHRTADVSIP each won one seat, showing localized political movements.
 10. **Significance of Caste and Regional Parties:** RJD and RLD won 4 and 2 seats, highlighting the importance of caste dynamics.
 
-PDF File of Report: 
+PDF File of Report: https://github.com/Annarhysa/ElectED/blob/anna/assets/Key_insights.pdf
 
