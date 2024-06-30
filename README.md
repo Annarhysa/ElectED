@@ -52,7 +52,6 @@ To run the dashboard locally:
 
 ## Output
 
-[![Output](assets/output.mp4)](assets/output.mp4)
-
+<video controls src="assets/output.mp4" title="Title"></video>
 
 
