@@ -52,6 +52,6 @@ To run the dashboard locally:
 
 ## Output
 
-<video controls src="assets/output.mp4" title="Title"></video>
+https://github.com/Annarhysa/ElectED/assets/91026126/48ddef68-ed02-431b-a0eb-29d3a8081edd
 
 
