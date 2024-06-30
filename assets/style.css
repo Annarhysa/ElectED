@@ -1,0 +1,46 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+/* Container styling */
+.container {
+    margin-top: 30px; /* Space from the top */
+    max-width: 1200px; /* Max width of the content */
+}
+
+/* Card styling */
+.card {
+    border: none;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* Soft shadow */
+    margin-bottom: 20px; /* Space between cards */
+    background-color: #ffffff; /* White background */
+}
+
+/* Card body styling */
+.card-body {
+    padding: 20px; /* Padding inside the card body */
+}
+
+/* H1 heading styling */
+h1 {
+    font-size: 2.5rem; /* Larger font size for main headings */
+    color: #333333; /* Dark gray text */
+}
+
+/* Summary text styling */
+.summary-text {
+    font-size: 1.2rem; /* Font size for summaries */
+    color: #666666; /* Medium gray text */
+}
+
+/* Graph styling */
+.graph-container {
+    height: 400px; /* Set height of graphs */
+}
+
+/* Center align text */
+.text-center {
+    text-align: center;
+}
