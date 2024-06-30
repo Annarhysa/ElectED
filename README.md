@@ -57,7 +57,7 @@ https://github.com/Annarhysa/ElectED/assets/91026126/48ddef68-ed02-431b-a0eb-29d
 
 ## Key Insights from the scrapped data
 
-These Insights are calculated in insights.py file
+These Insights are calculated in insights.py (https://github.com/Annarhysa/ElectED/blob/anna/insights.py) file
 
 1. **Dominance of BJP:** BJP has 240 seats, more than double of INC's 99 seats.
 2. **Regional Party Performance:** SP and AITC have strong regional influence with 37 and 29 seats respectively.
