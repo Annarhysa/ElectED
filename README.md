@@ -52,7 +52,7 @@ To run the dashboard locally:
 
 ## Output
 
-[![Output](assets/output.mp4)]
+[![Output](assets/output.mp4)](assets/output.mp4)
 
 
 
