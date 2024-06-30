@@ -18,9 +18,12 @@ df = pd.read_csv('data/data.csv')
 
 # Create plots
 bar_plot = px.bar(df, x='Party Abbreviation', y='Total')
+
 hist_plot = px.histogram(df, x='Total')
+
 top_5_parties = df.nlargest(5, 'Total')
 top_5_bar_plot = px.bar(top_5_parties, x='Party Abbreviation', y='Total')
+
 top_20_parties = df.nlargest(20, 'Total')
 pie_chart = px.pie(top_20_parties, values='Total', names='Party Abbreviation', hole=0.2)
 
@@ -30,7 +33,7 @@ app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP, '/assets/s
 # Layout of the app
 app.layout = dbc.Container([
     dbc.Row([
-        dbc.Col(html.H1("Election Results Dashboard"), className="mb-4 mt-4")
+        dbc.Col(html.H1("2024 Election Results (India) Dashboard"), className="mb-4 mt-4")
     ]),
     dbc.Row([
         dbc.Col(dbc.Card([
