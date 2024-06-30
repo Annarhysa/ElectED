@@ -55,3 +55,18 @@ To run the dashboard locally:
 https://github.com/Annarhysa/ElectED/assets/91026126/48ddef68-ed02-431b-a0eb-29d3a8081edd
 
 
+## Key Insights from the scrapped data
+
+1. **Dominance of BJP:** BJP has 240 seats, more than double of INC's 99 seats.
+2. **Regional Party Performance:** SP and AITC have strong regional influence with 37 and 29 seats respectively.
+3. **Southern Influence:** DMK and TDP show political significance with 22 and 16 seats each.
+4. **Emergence of New Alliances:** Shiv Sena split: SHSUBT has 9 seats, SHS has 7 seats.
+5. **Smaller Parties Making Impact:** LJPRV and NCPSP have 5 and 8 seats, influencing outcomes despite limited reach.
+6. **Communist Parties Holding Ground:** CPI(M) and CPI have 4 and 2 seats, maintaining left-wing presence.
+7. **Independent Candidates:** Independent candidates secured 7 seats, indicating voter discontent with traditional parties.
+8. **Variety of Political Ideologies:** Diverse landscape with regional, left-wing, right-wing, and caste-based parties.
+9. **Single Seat Parties:** SKM and BHRTADVSIP each won one seat, showing localized political movements.
+10. **Significance of Caste and Regional Parties:** RJD and RLD won 4 and 2 seats, highlighting the importance of caste dynamics.
+
+PDF File of Report: 
+
