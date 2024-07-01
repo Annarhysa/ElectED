@@ -77,3 +77,39 @@ insights = [
 # Print insights
 for insight in insights:
     print(insight)
+
+df = pd.read_csv('data/all.csv')
+
+# 1. Top Candidates by Total Votes
+top_candidates = df.nlargest(10, 'Total Votes')
+print("Top 10 Candidates by Total Votes:")
+print(top_candidates[['Candidate', 'Party', 'Total Votes']])
+
+
+# 2. Vote Share by Party
+party_vote_share = df.groupby('Party')['Total Votes'].sum().reset_index()
+party_vote_share['% of Total Votes'] = (party_vote_share['Total Votes'] / party_vote_share['Total Votes'].sum()) * 100
+print("Vote Share by Party:")
+print(party_vote_share)
+
+# 3. Candidates with Highest Postal Votes
+top_postal_votes = df.nlargest(10, 'Postal Votes')
+print("Top 10 Candidates by Postal Votes:")
+print(top_postal_votes[['Candidate', 'Party', 'Postal Votes']])
+
+# 4. Party-wise Total Votes
+party_total_votes = df.groupby('Party')['Total Votes'].sum().sort_values(ascending=False).reset_index()
+print("Party-wise Total Votes:")
+print(party_total_votes)
+
+# 5. Average Percentage of Votes
+average_percentage_votes = df['% of Votes'].mean()
+print(f"Average Percentage of Votes: {average_percentage_votes:.2f}%")
+
+# 6. Outliers in Votes
+q1 = df['Total Votes'].quantile(0.25)
+q3 = df['Total Votes'].quantile(0.75)
+iqr = q3 - q1
+outliers = df[(df['Total Votes'] < (q1 - 1.5 * iqr)) | (df['Total Votes'] > (q3 + 1.5 * iqr))]
+print("Outliers in Total Votes:")
+print(outliers[['Candidate', 'Party', 'Total Votes']])
