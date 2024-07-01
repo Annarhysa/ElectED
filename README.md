@@ -65,7 +65,7 @@ These Insights are calculated in insights.py (https://github.com/Annarhysa/Elect
 5. **Smaller Parties Making Impact:** LJPRV and NCPSP have 5 and 8 seats, influencing outcomes despite limited reach.
 6. **Communist Parties Holding Ground:** CPI(M) and CPI have 4 and 2 seats, maintaining left-wing presence.
 7. **Independent Candidates:** Independent candidates secured 7 seats, indicating voter discontent with traditional parties.
-8. **Variety of Political Ideologies:** Diverse landscape with regional, left-wing, right-wing, and caste-based parties.
+8. **Lower Average of voters:** 2024 Elections only had an average of 6.08% voters.
 9. **Single Seat Parties:** SKM and BHRTADVSIP each won one seat, showing localized political movements.
 10. **Significance of Caste and Regional Parties:** RJD and RLD won 4 and 2 seats, highlighting the importance of caste dynamics.
 
