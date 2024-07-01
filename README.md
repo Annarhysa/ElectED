@@ -30,7 +30,7 @@ The dashboard is built using Dash, a Python framework for building analytical we
 Ensure you have the following Python libraries installed:
 
 ```bash
-pip install dash dash-bootstrap-components pandas plotly requests beautifulsoup4
+pip install -r requirements.txt
 ```
 
 ## Running the Dashboard
