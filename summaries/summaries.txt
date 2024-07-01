@@ -16,3 +16,11 @@ Seats Distribution Among Top 20 Parties:
 The pie chart highlights the distribution of seats among the top 20 parties. 
 BJP holds the largest share, followed by INC, SP, AITC, and DMK. 
 This visualization provides a clear overview of the electoral strength of each party within the top 20, showcasing their respective contributions to the overall political landscape.
+
+Total Votes for Top 20 Candidates:
+This chart highlights the total votes for top 20 Candidates.
+INC holding the top position with the candidate Rakibul Hussain, followed by BJP
+
+Vote Distribution Among Top 20 Candidates:
+This pie chart highlights the votel distribution vs candidates vs party.
+BJP leading in the chart with 6.1% by Shankar Lalwani and 6.0% by three other candidates.
