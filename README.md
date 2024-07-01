@@ -52,8 +52,7 @@ To run the dashboard locally:
 
 ## Output
 
-https://github.com/Annarhysa/ElectED/assets/91026126/48ddef68-ed02-431b-a0eb-29d3a8081edd
-
+https://github.com/Annarhysa/ElectED/assets/91026126/a56d62c1-5c10-4312-81ea-dd1372ac824d
 
 ## Key Insights from the scrapped data
 
