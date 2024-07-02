@@ -1,0 +1,26 @@
+Total Seats Won by Each Party:
+The Bharatiya Janata Party (BJP) secured the highest number of seats with 240 seats. 
+The Indian National Congress (INC) followed with 99 seats, while the Samajwadi Party (SP) won 37 seats. 
+Other notable parties include the All India Trinamool Congress (AITC) with 29 seats and the Dravida Munnetra Kazhagam (DMK) with 22 seats.
+
+Distribution of Total Seats Won:
+The histogram illustrates a varied distribution of seats among political parties, with most parties winning fewer than 50 seats. 
+This distribution reflects the diversity and competitive nature of the election results across different regions and constituencies.
+
+Total Seats Won by Top 5 Parties:
+The top 5 parties with the highest seats are led by the BJP, securing a significant lead with 240 seats. 
+Following closely are the INC with 99 seats, SP with 37 seats, AITC with 29 seats, and DMK with 22 seats. 
+These parties dominate the electoral landscape, influencing the political dynamics at the national and regional levels.
+
+Seats Distribution Among Top 20 Parties:
+The pie chart highlights the distribution of seats among the top 20 parties. 
+BJP holds the largest share, followed by INC, SP, AITC, and DMK. 
+This visualization provides a clear overview of the electoral strength of each party within the top 20, showcasing their respective contributions to the overall political landscape.
+
+Total Votes for Top 20 Candidates:
+This chart highlights the total votes for top 20 Candidates.
+INC holding the top position with the candidate Rakibul Hussain, followed by BJP
+
+Vote Distribution Among Top 20 Candidates:
+This pie chart highlights the votel distribution vs candidates vs party.
+BJP leading in the chart with 6.1% by Shankar Lalwani and 6.0% by three other candidates.
